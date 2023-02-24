@@ -4,7 +4,7 @@ body{
 }
 
 header{
-    color: aliceblue;
+    color: rgb(7, 7, 73);
     text-align: center;
 }
 
@@ -22,7 +22,7 @@ select#flista{
 }
 
 footer {
-    color: white;
+    color: rgb(7, 7, 73);
     text-align: center;
     font-size: italic;
 }
