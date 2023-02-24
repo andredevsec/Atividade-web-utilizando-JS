@@ -6,7 +6,7 @@ Site que muda de acordo com a hora que está no sistema operacional, realizado n
 # Contagem
 Uma página web que conta os numeros e quando chega ao numero final mostra um emoji diferente
 
-![image](https://user-images.githubusercontent.com/84422477/221277831-8a35543f-1507-4353-b603-2cf721a5d3d0.png)
+![image](https://user-images.githubusercontent.com/84422477/221278653-e6d48693-8776-4ed5-93b2-6ffc55751baf.png)
 
 
 # Tabuada
